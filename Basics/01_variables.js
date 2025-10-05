@@ -8,3 +8,4 @@ console.log(Number);
 console.log(pincode);
 
 console.table([email, name, Number,pincode]); /*tablular print */
+ 
